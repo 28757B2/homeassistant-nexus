@@ -1,0 +1,8 @@
+{
+    "domain": "nexus",
+    "name": "Nexus Protocol Temperature/Humidity Sensors (CC1101)",
+    "documentation": "https://github.com/28757B2/homeassistant-nexus",
+    "dependencies": [],
+    "codeowners": ["28757B2"],
+    "requirements": ["cc1101-python@1.0.0"]
+  }
